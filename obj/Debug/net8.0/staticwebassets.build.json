@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m6DBA6gNptnE0sfwRfhY8GM/h2Qpbe0SsVNmk6UBUh0=",
+  "Source": "SmartWarehouse.Api",
+  "BasePath": "_content/SmartWarehouse.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
